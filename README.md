@@ -14,7 +14,7 @@ pip install requirements.txt.
 ## Используемые технологии
 - <b>ChromaDB</b> - в качестве хранилища данных;
 - <b>googlesearch</b> - для обращения к поисковику, <b>request</b> и <b>BeautifulSoup</b> для парсинга веб-страниц;
-- <b>longchain</b> - как основной фреймворк для построения RAG системы;
+- <b>langchain</b> - как основной фреймворк для построения RAG системы;
 - <b>hugging-quants/Meta-Llama-3.1-8B-Instruct-AWQ-INT4</b> - выбранная модель LLM для генерации ответов;
 - <b>intfloat/multilingual-e5-large</b> - модель для построения эмбеддингов.
 
